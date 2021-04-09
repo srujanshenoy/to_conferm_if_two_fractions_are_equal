@@ -8,4 +8,4 @@ P2 = Y*Z
 if P1 == P2:
     print("the fractions are equal.")
 else:
-    print("the fractiions are not equal.")    
+    print("the fractions are not equal.")
