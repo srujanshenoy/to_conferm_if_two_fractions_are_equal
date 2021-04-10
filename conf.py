@@ -3,7 +3,7 @@ X = float(input("N1: "))
 Y = float(input("D1: "))
 
 while Y == 0:
-    print("oops! Denominator can not be 0!)
+    print("oops! Denominator can not be 0!")
     Y = float(input("D1: "))
 
 Z = float(input("N2: "))
